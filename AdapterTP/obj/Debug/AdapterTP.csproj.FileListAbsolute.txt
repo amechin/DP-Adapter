@@ -1,0 +1,7 @@
+C:\Users\adrienmechin\source\repos\AdapterTP\AdapterTP\bin\Debug\AdapterTP.exe.config
+C:\Users\adrienmechin\source\repos\AdapterTP\AdapterTP\bin\Debug\AdapterTP.exe
+C:\Users\adrienmechin\source\repos\AdapterTP\AdapterTP\bin\Debug\AdapterTP.pdb
+C:\Users\adrienmechin\source\repos\AdapterTP\AdapterTP\obj\Debug\AdapterTP.csprojAssemblyReference.cache
+C:\Users\adrienmechin\source\repos\AdapterTP\AdapterTP\obj\Debug\AdapterTP.csproj.CoreCompileInputs.cache
+C:\Users\adrienmechin\source\repos\AdapterTP\AdapterTP\obj\Debug\AdapterTP.exe
+C:\Users\adrienmechin\source\repos\AdapterTP\AdapterTP\obj\Debug\AdapterTP.pdb
